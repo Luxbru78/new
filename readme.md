@@ -1,1 +1,1 @@
-lalala
+hello word\n
